@@ -1,4 +1,8 @@
+# Deep Learning and Computer Vision Projects
+
 There are three deep learning and computer vision projects in this repository.
+
+Project 1 is about binary image classification task and benchmark of deep learning architectures.
 
 ## Project 1 (Benchmark of Deep Learning Architectures)
 
