@@ -1,0 +1,5 @@
+train: D:/AI Project Guidelines/project 2/data/train/images
+val: D:/AI Project Guidelines/project 2/data/val/images
+
+nc: 2
+names: ['bike','person']
